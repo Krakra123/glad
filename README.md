@@ -10,8 +10,8 @@ include(FetchContent)
 
 FetchContent_Declare(
   glad
-  GIT_REPOSITORY https://github.com/yourusername/glad.git
-  GIT_TAG        main
+  GIT_REPOSITORY https://github.com/Krakra123/glad.git
+  GIT_TAG main
 )
 
 FetchContent_MakeAvailable(glad)
